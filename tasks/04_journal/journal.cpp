@@ -1,8 +1,5 @@
 #include "journal.hpp"
 
-// Этот файл нужно реализовать.
-// Сигнатуры в journal.hpp менять нельзя.
-
 bool IsValidScore(int score) {
     (void)score;
     return false;
