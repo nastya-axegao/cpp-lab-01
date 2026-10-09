@@ -17,7 +17,6 @@ int NextMin(bool has_score, int current_min, int score) {
     }
     return current_min;
 }
-}
 
 int NextMax(bool has_score, int current_max, int score) {
     if (has_score == false) {
